@@ -1,0 +1,6 @@
+        keys = {
+["Muie La Cangury"] = true, -- Random key!
+["Bine ba"] = true,
+["Bine BA"] = true
+}
+return keys
